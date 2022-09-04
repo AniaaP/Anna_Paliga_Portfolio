@@ -60,3 +60,6 @@ jak to ująć?
 <b>Tech skills</b><br/>
 
 <b>Soft skills</b><br/>
+
+<b>LinkedIn</b><br/>
+<a href="">LINK to LinkedIn soon</a>
