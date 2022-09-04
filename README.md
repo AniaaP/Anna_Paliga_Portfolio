@@ -21,6 +21,7 @@ Git, GitHub<br/>
 Selenium WebDriver - for automated testing of web applications (?)<br/>
 Pycharm<br/>
 QTest
+Devtools
 
 <b>Books</b><br/>
 Testowanie oprogramowiania - Piotr Wicherski - in progress
@@ -28,6 +29,11 @@ Testowanie oprogramowiania - Piotr Wicherski - in progress
 <b>Blogs I read</b><br/>
 testerzy.pl<br/>
 testerka.pl
+
+<b>Webinarsd</b><br/>
+Szukamy dziury w całym - webinar testuj.pl
+Jak zostać testerką oprogramowania? Praktyczna lekcja na żywo (testuj.pl)
+
 
 <b>IT groups on Facebook I follow</b><br/>
 Testowanie oprogramowania<br/>
@@ -43,9 +49,14 @@ Mamo, pracuj w IT
 <b>Bugs</b> <br/>
 Bug on QA Challenge <a href="https://docs.google.com/spreadsheets/d/1XtR-ROAgYJ0UTcxRvXpQ53ejJyDl8vz6JZhAnrp2OjI/edit?usp=sharing">LINK to bug</a> 
 
-<b>Test cases</b> 
+c
 
 Test cases on QA Challenge<br/>
 TC on QA Challenge <a href="https://docs.google.com/spreadsheets/d/1XtR-ROAgYJ0UTcxRvXpQ53ejJyDl8vz6JZhAnrp2OjI/edit?usp=sharing">LINK to TC</a> 
 
+<b>Mentoring</b><br/>
+jak to ująć?
 
+<b>Tech skills</b><br/>
+
+<b>Soft skills</b><br/>
