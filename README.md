@@ -2,10 +2,11 @@
 My portfolio
 
 <b>About me</b><br/>
-My name is Anna Paliga. A few months age I decided to change my career path and to be a software tester. 
-Tu będzie porządny opis about me i about my experience :)
+My name is Anna Paliga. A few months ago I decided to change my career path and to be a software tester. 
 
-<b>My experience</b>
+
+<b>My experience</b> 
+In my career, I have performed the duties of a software tester. On a daily basis, I tested the website of the online store as a user, and then reported errors to programmers and verified them after repair.
 
 <b>Courses</b><br/>
 Podstawy manualnego testowania oprogramowania (Udemy)<br/>
@@ -46,20 +47,16 @@ Mamo, pracuj w IT
 <b>QA Challenge </b><br/>
 <a href="https://github.com/AniaaP/Challenge_portfolio_ania">LINK to repository</a> 
 
-<b>Bugs</b> <br/>
-Bug on QA Challenge <a href="https://docs.google.com/spreadsheets/d/1XtR-ROAgYJ0UTcxRvXpQ53ejJyDl8vz6JZhAnrp2OjI/edit?usp=sharing">LINK to bug</a> 
-
-c
-
-Test cases on QA Challenge<br/>
-TC on QA Challenge <a href="https://docs.google.com/spreadsheets/d/1XtR-ROAgYJ0UTcxRvXpQ53ejJyDl8vz6JZhAnrp2OjI/edit?usp=sharing">LINK to TC</a> 
-
-<b>Mentoring</b><br/>
-jak to ująć?
-
 <b>Tech skills</b><br/>
+Soon
 
 <b>Soft skills</b><br/>
+Communicativeness
+Empathy
+Ability to work in a group
+Multitasking
+Resistance to stress
+willingness to learn
 
 <b>LinkedIn</b><br/>
 <a href="">LINK to LinkedIn soon</a>
