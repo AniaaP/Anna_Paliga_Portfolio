@@ -51,12 +51,13 @@ Mamo, pracuj w IT
 Soon
 
 <b>Soft skills</b><br/>
+Perfectionism and inquisitiveness
+Assertiveness
+Creativity
+Analytical thinking skills
 Communicativeness
 Empathy
-Ability to work in a group
 Multitasking
-Resistance to stress
-willingness to learn
 
 <b>LinkedIn</b><br/>
 <a href="">LINK to LinkedIn soon</a>
